@@ -1,0 +1,2 @@
+# ali_image_api
+结合jenkins动态参数获取阿里云镜像版本
